@@ -1,3 +1,4 @@
+[DISCLAIMER](https://gist.github.com/HunterAllen06/100914a4aeb15675c98dd71db1362fa6)
 # UtilityScripts
 Lots of miscellaneous components and extension scripts for various classes/types. Here are some of the main features:
 
