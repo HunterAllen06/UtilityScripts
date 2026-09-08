@@ -33,7 +33,7 @@ Lots of miscellaneous components and extension scripts for various classes/types
 ## Helper Classes
 - WaitFunctions
 - Timer
-- ObjecWithProbability
+- ObjectWithProbability
 - RandomFunctions
 - RandomObjectContainer
 
